@@ -1,5 +1,4 @@
-[
-  {
+sensores= {
     "id"="1",
     "temperatura"=25.4,
     "humedad"= 70,
@@ -26,4 +25,4 @@
     "ubicacion"="UTN",
     "fecha-hora"= "2025-03-25T14:00:00"
   }
-]
+
